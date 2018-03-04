@@ -1,0 +1,18 @@
+{
+	"hosting": {
+        "name": "wakke",
+        "public": "app",
+        "version": "1.0.0",
+        "description": "Wakke Web Page",
+        "repository": {
+        	"type": "git",
+        	"url": "git+https://github.com/oskargicast/wakke.git"
+        },
+        "keywords": [
+        	"wakke"
+        ],
+        "author": "wakke",
+        "license": "ISC",
+        "homepage": "https://github.com/oskargicast/wakke.git#readme"
+	}
+}

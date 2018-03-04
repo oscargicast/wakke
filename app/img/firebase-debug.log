@@ -1,0 +1,26 @@
+[debug] [2018-03-04T19:28:55.091Z] ----------------------------------------------------------------------
+[debug] [2018-03-04T19:28:55.093Z] Command:       /home/oscar/.nvm/versions/node/v6.10.2/bin/node /home/oscar/.nvm/versions/node/v6.10.2/bin/firebase deploy
+[debug] [2018-03-04T19:28:55.093Z] CLI Version:   3.17.4
+[debug] [2018-03-04T19:28:55.093Z] Platform:      linux
+[debug] [2018-03-04T19:28:55.093Z] Node Version:  v6.10.2
+[debug] [2018-03-04T19:28:55.093Z] Time:          Sun Mar 04 2018 14:28:55 GMT-0500 (-05)
+[debug] [2018-03-04T19:28:55.093Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2018-03-04T19:28:55.103Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2018-03-04T19:28:55.103Z] > authorizing via signed-in user
+[debug] [2018-03-04T19:28:55.105Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/wakke-e72a5  
+  
+ Sun Mar 04 2018 14:28:55 GMT-0500 (-05)
+[debug] [2018-03-04T19:28:57.790Z] <<< HTTP RESPONSE 200
+[debug] [2018-03-04T19:28:57.792Z] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/wakke-e72a5/tokens  
+  
+ Sun Mar 04 2018 14:28:57 GMT-0500 (-05)
+[debug] [2018-03-04T19:29:12.845Z] <<< HTTP RESPONSE 200
+[info] 
+[info] === Deploying to 'wakke-e72a5'...
+[info] 
+[info] i  deploying hosting
+[info] i  hosting: preparing app directory for upload...
+[debug] [2018-03-04T19:29:14.404Z] >>> HTTP REQUEST PUT https://deploy.firebase.com/v1/hosting/wakke-e72a5/uploads/-L6mUJtoPEKmEa29mN4i?fileCount=105&message=  
+  
+ Sun Mar 04 2018 14:29:14 GMT-0500 (-05)
